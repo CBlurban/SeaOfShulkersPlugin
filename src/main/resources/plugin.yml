@@ -1,0 +1,6 @@
+name: SeaOfShulkers
+version: '${project.version}'
+main: seablu.seaofshulkers.SeaOfShulkers
+api-version: 1.19
+description: Companion plugin for the Sea of Shulkers mod to support server use
+depend: [ProtocolLib]
